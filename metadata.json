@@ -1,0 +1,5 @@
+{
+  "name": "Hospital System Navigator",
+  "description": "An intelligent AI agent system that navigates and delegates hospital-related requests (Appointments, Records, Billing, Patient Info) to specialized sub-agents.",
+  "requestFramePermissions": []
+}
